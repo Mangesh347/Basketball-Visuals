@@ -1,4 +1,6 @@
+# 🏀 US College Basketball Data Visualization 
 ![pexels-tima-miroshnichenko-5586409 (1)](https://github.com/user-attachments/assets/d3af2f5c-1a4c-4a4a-809d-260a2c514cc4)
+
 # 🏀 US College Basketball Data Visualization – Final Report
 
 This project explores the *US College Basketball dataset* using *Seaborn* and *Matplotlib. We created multiple visualizations such as **bar plots, box plots, KDE plots, violin plots, and swarm plots* to analyze team performance and efficiency.
